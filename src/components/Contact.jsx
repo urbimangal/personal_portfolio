@@ -4,7 +4,7 @@ const socialLinks = [
   { label: "GitHub", url: "https://github.com/urbimangal", icon: "🐙" },
   { label: "LinkedIn", url: "https://www.linkedin.com/in/urbi-mangal-672828324", icon: "💼" },
   { label: "LeetCode", url: "https://leetcode.com/u/urbi_mangal/", icon: "🏆" },
-  { label: "Twitter / X", url: "https://twitter.com/urbi_mangal", icon: "🐦" },
+  { label: "GeeksforGeeks", url: "https://www.geeksforgeeks.org/profile/urbimatth3", icon: "🟢" },
 ];
 
 export default function Contact() {
